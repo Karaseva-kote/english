@@ -1,0 +1,8 @@
+Hello, everyone! We would like to show you our beautiful project - Let’s min! 
+
+Optimization methods are key algorithms in machine learning. 
+Many people who want to study such a popular subject need to study gradient methods. Therefore, we decided to develop an application that clearly and in detail shows the work of the optimization algorithms. 
+
+At the moment, three methods of the algorithm have been developed. You can see short information about each of the methods and graphs of the steps of the algorithms. You can set the quadratic function and the epsilon, on which data the algorithm will work. And the main feature of our application is the possibility to iterate through steps of the algorithm operation.
+
+Anyone who wants to start learning machine learning will find it much easier to do it with our application. Our goal is to help people and make learning more comfortable.
